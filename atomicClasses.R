@@ -1,0 +1,15 @@
+v<-TRUE
+print(class(v))
+k<-2L
+print(class(k))
+f<-2
+print(class(f))
+b<-1.2L
+print(class(b))
+m<-3+2i
+print(class(m))
+p<-"dfsfd"
+print(class(p))
+d<-charToRaw("HELLO")
+print(d)
+print(class(d))
